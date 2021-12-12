@@ -15,7 +15,7 @@ Cloning repo: git clone https://github.com/jim-reespotter/pytoncodingclub.git (o
 
 Projects in subfolders, with linked Google docs explaining what to do.
 
-DO NOT SAVE STUFF TO THIS FOLDER - IT WILL BE DELETED
+DO NOT SAVE STUFF TO THIS FOLDER UNLESS YOU KNOW WHAT YOU ARE DOING - IT WILL BE DELETED
 Save your work in a different folder or on a memorising stick
 
 (Scratch docs links : https://drive.google.com/drive/folders/1PzsBa9UpsCj2x3Z1F5IamT715lrS1iv9?usp=sharing)
